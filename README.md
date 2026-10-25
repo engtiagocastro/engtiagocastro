@@ -51,6 +51,6 @@ Meu aprendizado é prático: parto de um problema, estudo o que é necessário p
 
 Aberto a oportunidades profissionais, projetos e desafios onde engenharia, tecnologia e automação gerem soluções práticas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engtiagocastro)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/engtiagocastro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tcastrocna)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tcastrocna_/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:engtiagocst@gmail.com)
