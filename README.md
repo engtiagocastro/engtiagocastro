@@ -10,7 +10,7 @@ Software · Hardware · IoT · Automação
 
 Tenho interesse principalmente em automação, desenvolvimento de software, sistemas embarcados, IoT e soluções para problemas do mundo real.
 
-Meu aprendizado é prático: parto de um problema, estudo o que é necessário para resolvê-lo e transformo o conhecimento em um projeto funcional. Gosto de trabalhar na interseção entre **hardware e software**, criando desde pequenos sistemas embarcados até aplicações web.
+Meu aprendizado é prático: parto de um problema, estudo o que é necessário para resolvê-lo e transformo o conhecimento em um projeto funcional. trabalho na interseção entre **hardware e software**, criando desde pequenos sistemas embarcados até aplicações web.
 
 - 🎓 Engenharia Elétrica — UNIFSA
 - 🔌 Técnico em Eletrônica — IFPI
